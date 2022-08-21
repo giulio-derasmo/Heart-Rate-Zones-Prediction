@@ -26,7 +26,7 @@ The data are coming from [FIT files](https://developer.garmin.com/fit/protocol/)
 
 ## Task
 
-The data are relative to 1 minute long running efforts in order to predict the associated heart-rate zone.
+The data are relative to 1 minute long running efforts, the task is to predict the associated heart-rate zone being careful to obtain a performing model both on the public and on the private test set.
 
  <br />
  <br />
