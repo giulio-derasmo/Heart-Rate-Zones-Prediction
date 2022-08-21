@@ -15,6 +15,15 @@ Heart rate zones are closely linked to your aerobic and anaerobic thresholds. Un
 
 The following HR zones chart shows the level of intensity as a percentage of Maximum Heart Rate used in each one.
 
+Zone	Intensity	Percentage of HRmax
+Zone 0	Resting	 -
+Zone 1	Very Light	50-60%
+Zone 2	Light	60-70%
+Zone 3	Moderate	70-80%
+Zone 4	Hard	80-90%
+Zone 5	Maximum	90-100%
+![image](https://user-images.githubusercontent.com/91251307/185799180-02a6a679-f0a0-43fe-876b-9f0836adc6ee.png)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91251307/185798879-59503000-2a05-41d6-9704-f5b5e1ea973e.png" style="width:800px">
