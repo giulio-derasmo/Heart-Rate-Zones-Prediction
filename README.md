@@ -15,6 +15,7 @@ Heart rate zones are closely linked to your aerobic and anaerobic thresholds. Un
 
 The following HR zones chart shows the level of intensity as a percentage of Maximum Heart Rate used in each one.
 
+<br />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91251307/185799289-c86661c8-2b67-4a59-a5f4-7f4f3c70f299.png" style="width:800px">
 </p>
@@ -31,6 +32,9 @@ The data are relative to 1 minute long running efforts, the task is to predict t
  <br />
  <br />
  <br />
+ <br />
+ <br />
+ 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50860347/147412786-183da6b0-990f-4016-9f2e-0719d8066f5b.png" style="width: 100%"/>
 <p>
