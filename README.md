@@ -19,6 +19,7 @@ The following HR zones chart shows the level of intensity as a percentage of Max
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91251307/185799289-c86661c8-2b67-4a59-a5f4-7f4f3c70f299.png" style="width:800px">
 </p>
+<br />
 
 ## Data Collection
 Modern sports watches contain many sensors to monitor _heart rate, cadence, altitude, etc._ The readings are typically saved every once per second.
