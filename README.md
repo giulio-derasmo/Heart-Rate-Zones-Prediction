@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-This project allowed us to win the [Hackaton](https://www.kaggle.com/competitions/statistical-learning-sapienza-spring-2022) 2021/2022 reserved for students of the MSc in Data Science of the La Sapienza University of Rome.
+This project allowed us to win the [Hackaton](https://www.kaggle.com/competitions/statistical-learning-sapienza-spring-2022) 2021/2022 reserved for students of the  Statistical Learning course of the MSc in Data Science at the University of Rome, La Sapienza.
 
 ## 🏃 Run Baby Run 🏃🏻‍♀️
 
