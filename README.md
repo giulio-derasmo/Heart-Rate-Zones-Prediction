@@ -11,7 +11,7 @@ This project allowed us to win the [Hackaton](https://www.kaggle.com/competition
 - Arturo Ghinassi
 - Andrea Potì
 - Amedeo Ranaldi
-- Camilla Saverese
+- Camilla Savarese
 
 ## 🏃 Run Baby Run 🏃🏻‍♀️
 
