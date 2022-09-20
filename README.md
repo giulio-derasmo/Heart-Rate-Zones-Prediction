@@ -7,10 +7,10 @@
 This project allowed us to win the [Hackaton](https://www.kaggle.com/competitions/statistical-learning-sapienza-spring-2022) 2021/2022 reserved for students of the  Statistical Learning course of the MSc in Data Science at the University of Rome, La Sapienza.
 
 ## Team members
-- Giulio D'Erasmo
-- Arturo Ghinassi
-- Andrea Potì
-- Amedeo Ranaldi
+- [Giulio D'Erasmo](https://github.com/giulio-derasmo)
+- [Arturo Ghinassi](https://github.com/santurini)
+- [Andrea Potì](https://github.com/obster991)
+- [Amedeo Ranaldi](https://github.com/Requiem98)
 - Camilla Savarese
 
 ## 🏃 Run Baby Run 🏃🏻‍♀️
