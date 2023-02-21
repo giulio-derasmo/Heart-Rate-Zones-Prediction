@@ -6,13 +6,6 @@
 
 This project allowed us to win the [Hackaton](https://www.kaggle.com/competitions/statistical-learning-sapienza-spring-2022) 2021/2022 reserved for students of the  Statistical Learning course of the MSc in Data Science at the University of Rome, La Sapienza.
 
-## Team members
-- [Giulio D'Erasmo](https://github.com/giulio-derasmo)
-- [Arturo Ghinassi](https://github.com/santurini)
-- [Andrea Potì](https://github.com/obster991)
-- [Amedeo Ranaldi](https://github.com/Requiem98)
-- [Camilla Savarese](https://github.com/Camillasavarese)
-
 ## 🏃 Run Baby Run 🏃🏻‍♀️
 
 Heart rate zones, or HR zones, are a way to monitor how hard you’re training.
@@ -37,11 +30,14 @@ The data are coming from [FIT files](https://developer.garmin.com/fit/protocol/)
 
 The data are relative to 1 minute long running efforts, the task is to predict the associated heart-rate zone being careful to obtain a performing model both on the public and on the private test set.
 
- <br />
- <br />
- <br />
- <br />
- <br />
+## Team members
+- [Giulio D'Erasmo](https://github.com/giulio-derasmo)
+- [Arturo Ghinassi](https://github.com/santurini)
+- [Andrea Potì](https://github.com/obster991)
+- [Amedeo Ranaldi](https://github.com/Requiem98)
+- [Camilla Savarese](https://github.com/Camillasavarese)
+
+#
  
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50860347/147412786-183da6b0-990f-4016-9f2e-0719d8066f5b.png" style="width: 100%"/>
